@@ -1,5 +1,5 @@
-version=1.261101.1
-url=https://github.com/v3n0mt3ch/leet-browser-releases/releases/download/v1.261101.1/LeetBrowserSetup.exe
-size=135150981
-sha256=c5ffeb032da37b6dc279400979a129acb9210a0d78938480139e03872e4a2fe9
-sig=3c598a231bd0ec340126deeb0f9b23eeda89f6a23a188c10b54e1477d8403f43d3172de1757952ec80c0aa00c46e3481759d5f8f8de6d40b7a9375e51d815d6c
+version=1.261114.1
+url=https://github.com/v3n0mt3ch/leet-browser-releases/releases/download/v1.261114.1/LeetBrowserSetup.exe
+size=134980607
+sha256=ca79ef98b940edf80b7491fa85ab72cd8b3867ee4218502659671fcfc4a23e18
+sig=870112ecabb9fd1b184d20dc8033470c5c1f217a9c5a921b1d991e6b6fd14b378a14dda17175ede57c475ef147b6def71fd050ffe410e010ff1f5496540c02f0
